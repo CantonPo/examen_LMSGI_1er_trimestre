@@ -1,0 +1,31 @@
+.contenedor1{
+    background-color: rgb(129, 40, 122);
+    height: 100vh;
+    margin: 0%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.contenedor2{           
+    background-color: rgb(60, 93, 182);
+    height: 100vh;
+    margin: 0%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;           
+}
+.contenedor3{           
+    background-color: rgb(163, 47, 62);
+    height: 100vh;
+    margin: 0%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;           
+}
